@@ -1,0 +1,268 @@
+
+
+At 2014-09-11 09:59:05 For Week 2 CHAD from 67.224.86.124 who has an ID # of 8, picked: [] PIT, [] PHI, [] DEN, [] SEA, [] TEN 
+At 2014-09-11 11:29:24 For Week 2 GORD from 131.107.160.207 who has an ID # of 7, picked: [34] DET, [38] ARI, [47] SF, [48] IND, [39] MIN 
+At 2014-09-11 11:32:48 For Week 2 HOOPER from 205.166.218.69 who has an ID # of 9, picked: [33] PIT, [34] DET, [38] ARI, [39] NE , [40] NO  
+At 2014-09-11 11:35:11 For Week 2 LONN from 66.249.84.101 who has an ID # of 21, picked: [33] PIT, [38] NYG, [43] SD , [47] SF , [45] NYJ 
+At 2014-09-11 18:40:01 For Week 2 ROGERS from 87.86.240.174 who has an ID # of 13, picked: [47] SF, [39] NE, [36] WAS, [43] SEA, [44] HOU 
+At 2014-09-11 19:04:48 For Week 2 MCPHEE from 192.168.3.56 who has an ID # of 3, picked: [33] PIT, [34] CAR, [40] CLE, [43] SD, [38] NYG 
+At 2014-09-12 08:46:46 For Week 2 STEVENS from 199.235.123.96 who has an ID # of 16, picked: [35] BUF, [40] NO, [38] NYG, [48] PHI, [39] NE 
+At 2014-09-12 11:47:38 For Week 2 GRAMMA from 207.219.69.136 who has an ID # of 6, picked: [39] MIN, [42] TB, [47] SF, [37] TEN, [35] MIA 
+At 2014-09-12 14:42:58 For Week 2  from 207.219.69.136 who has an ID # of , picked: [] , [] , [] , [] , []  
+At 2014-09-12 19:23:50 For Week 2 MEAT from 99.239.41.180 who has an ID # of 19, picked: [40] NO, [43] SEA, [39] NE, [45] GB, [48] IND 
+At 2014-09-12 21:38:57 For Week 2 DOWDS from 70.51.69.30 who has an ID # of 17, picked: [47] CHI, [43] SD, [37] TEN, [38] NYG, [42] STL 
+At 2014-09-13 10:52:55 For Week 2 SOUTH from 96.51.57.136 who has an ID # of 10, picked: [35] MIA, [39] NE, [34] DET, [44] OAK, [45] NYJ 
+At 2014-09-13 11:23:27 For Week 2 MORGAN from 98.247.20.166 who has an ID # of 12, picked: [43] SEA, [34] DET, [37] TEN, [36] JAX, [41] ATL 
+At 2014-09-13 11:44:03 For Week 2 SKIP from 98.247.20.166 who has an ID # of 15, picked: [47] SF, [41] ATL, [43] SEA, [37] DAL, [34] CAR 
+At 2014-09-13 12:13:51 For Week 2 GUSSY from 184.151.190.146 who has an ID # of 14, picked: [47] SF , [35] MIA, [42] STL, [38] ARI, [46] KC  
+At 2014-09-13 12:19:51 For Week 2 HURLEY from 173.231.110.150 who has an ID # of 18, picked: [39] NE, [35] BUF, [47] SF, [48] PHI, [45] GB 
+At 2014-09-13 13:01:45 For Week 2 DARK from 99.225.157.205 who has an ID # of 5, picked: [45] GB, [35] MIA, [38] ARI, [39] NE, [34] DET 
+At 2014-09-18 11:57:27 For Week 3 HOOPER from 205.166.218.66 who has an ID # of 9, picked: [81] ATL, [83] DAL, [85] HOU, [90] IND, [92] SF  
+At 2014-09-18 20:13:05 For Week 3 ROGERS from 71.197.144.40 who has an ID # of 13, picked: [81] ATL, [87] CIN, [90] IND, [95] CAR, [96] CHI 
+At 2014-09-19 13:19:55 For Week 3 STEVENS from 199.235.145.125 who has an ID # of 16, picked: [89] GB, [87] CIN, [88] BAL, [93] DEN, [86] NO 
+At 2014-09-19 13:53:44 For Week 3 CHAD from 24.114.68.80 who has an ID # of 8, picked: [90] JAX, [91] OAK, [89] GB, [88] CLE, [93] DEN 
+At 2014-09-19 22:26:41 For Week 3 DOWDS from 70.51.69.30 who has an ID # of 17, picked: [91] OAK, [89] GB, [88] CLE, [94] KC, [95] PIT 
+At 2014-09-19 22:26:44 For Week 3 DOWDS from 70.51.69.30 who has an ID # of 17, picked: [91] OAK, [89] GB, [88] CLE, [94] KC, [95] PIT 
+At 2014-09-20 08:07:34 For Week 3 SOUTH from 96.51.57.136 who has an ID # of 10, picked: [84] WAS, [86] NO, [89] GB, [93] SEA, [92] ARI 
+At 2014-09-20 08:07:37 For Week 3 SOUTH from 96.51.57.136 who has an ID # of 10, picked: [84] WAS, [86] NO, [89] GB, [93] SEA, [92] ARI 
+At 2014-09-20 09:39:00 For Week 3 GRAMMA from 204.191.121.4 who has an ID # of 6, picked: [96] CHI, [87] CIN, [90] IND, [95] CAR, [85] HOU 
+At 2014-09-20 09:39:01 For Week 3 GRAMMA from 204.191.121.4 who has an ID # of 6, picked: [96] CHI, [87] CIN, [90] IND, [95] CAR, [85] HOU 
+At 2014-09-20 12:19:03 For Week 3 GUSSY from 184.147.240.7 who has an ID # of 14, picked: [88] BAL, [93] DEN, [94] KC , [95] CAR, [96] CHI 
+At 2014-09-20 12:27:12 For Week 3 MEAT from 184.151.61.230 who has an ID # of 19, picked: [84] PHI, [85] HOU, [93] SEA, [94] MIA, [95] CAR 
+At 2014-09-20 12:31:42 For Week 3 HURLEY from 99.234.98.100 who has an ID # of 18, picked: [95] PIT, [88] CLE, [86] NO, [84] PHI, [90] IND 
+At 2014-09-20 12:56:09 For Week 3 MORGAN from 98.247.20.166 who has an ID # of 12, picked: [82] SD, [83] DAL, [90] IND, [95] CAR, [89] GB 
+At 2014-09-20 13:06:38 For Week 3 MCPHEE from 192.168.3.56 who has an ID # of 3, picked: [82] SD, [84] PHI, [91] OAK, [96] CHI, [90] JAX 
+At 2014-09-20 13:07:47 For Week 3 SKIP from 98.247.20.166 who has an ID # of 15, picked: [90] IND, [84] PHI, [95] CAR, [81] ATL, [93] SEA 
+At 2014-09-20 13:49:20 For Week 3 DARK from 99.225.157.205 who has an ID # of 5, picked: [83] DAL, [85] NYG, [87] CIN, [89] GB, [94] MIA 
+At 2014-09-20 13:49:52 For Week 3 LONN from 66.249.84.101 who has an ID # of 21, picked: [91] OAK, [93] DEN, [92] SF , [86] MIN, [90] IND 
+At 2014-09-20 13:59:49 For Week 3 GORD from 83.202.213.23 who has an ID # of 7, picked: [87] TEN, [95] CAR, [93] SEA, [88] CLE, [84] WAS 
+At 2014-09-23 22:24:44 For Week 3 MCPHEE from 192.168.3.56 who has an ID # of 3, picked: [81] ATL, [81] ATL, [81] ATL, [81] ATL, [81] ATL 
+At 2014-09-25 11:49:20 For Week 4 ROGERS from 131.107.192.163 who has an ID # of 13, picked: [97] WAS, [103] DET, [107] ATL, [106] SF, [109] KC 
+At 2014-09-25 18:48:18 For Week 4 HOOPER from 184.151.36.43 who has an ID # of 9, picked: [97] WAS, [102] CAR, [103] DET, [107] ATL, [106] PHI 
+At 2014-09-25 20:03:50 For Week 4 GUSSY from 184.147.240.7 who has an ID # of 14, picked: [97] WAS, [102] CAR, [104] TB , [106] PHI, [108] NO  
+At 2014-09-26 09:09:30 For Week 4 STEVENS from 199.235.145.105 who has an ID # of 16, picked: [100] BUF, [101] IND, [108] NO, [105] JAX, [106] PHI 
+At 2014-09-26 15:34:18 For Week 4 GRAMMA from 199.198.251.107 who has an ID # of 6, picked: [107] ATL, [99] CHI, [103] DET, [106] PHI, [104] PIT 
+At 2014-09-26 21:06:44 For Week 4 DOWDS from 70.51.69.30 who has an ID # of 17, picked: [100] HOU, [109] KC, [107] MIN, [106] SF, [104] TB 
+At 2014-09-27 08:55:59 For Week 4 GORD from 50.181.223.183 who has an ID # of 7, picked: [109] NE, [101] IND, [105] JAX, [102] BAL, [106] SF 
+At 2014-09-27 09:26:43 For Week 4 MCPHEE from 199.119.233.189 who has an ID # of 3, picked: [106] PHI, [102] BAL, [103] DET, [107] ATL, [100] BUF 
+At 2014-09-27 09:34:58 For Week 4 CHAD from 69.159.39.71 who has an ID # of 8, picked: [106] PHI, [103] NYJ, [100] BUF, [101] TEN, [105] JAX 
+At 2014-09-27 11:10:10 For Week 4 SOUTH from 96.51.57.136 who has an ID # of 10, picked: [102] BAL, [103] DET, [106] PHI, [107] ATL, [109] KC 
+At 2014-09-27 12:28:58 For Week 4 MEAT from 184.151.190.136 who has an ID # of 19, picked: [98] MIA, [100] HOU, [101] IND, [104] PIT, [105] SD 
+At 2014-09-27 12:43:06 For Week 4 HURLEY from 24.114.64.42 who has an ID # of 18, picked: [105] SD, [104] PIT, [99] GB, [107] ATL, [103] DET 
+At 2014-09-27 13:14:39 For Week 4 SKIP from 98.247.20.166 who has an ID # of 15, picked: [104] PIT, [99] CHI, [103] DET, [100] BUF, [105] SD 
+At 2014-09-27 13:18:52 For Week 4 LONN from 66.249.84.101 who has an ID # of 21, picked: [104] PIT, [105] SD , [106] SF , [107] MIN, [108] DAL 
+At 2014-09-27 13:49:41 For Week 4 MORGAN from 98.247.20.166 who has an ID # of 12, picked: [102] CAR, [108] DAL, [105] SD, [106] PHI, [104] PIT 
+At 2014-09-27 13:49:57 For Week 4 DARK from 99.225.157.205 who has an ID # of 5, picked: [105] SD, [104] PIT, [102] BAL, [107] ATL, [108] NO  
+At 2014-10-01 22:05:50 For Week 5 LONN from 66.249.84.22 who has an ID # of 21, picked: [110] MIN, [115] TB , [114] NYG, [118] IND, [121] SF  
+At 2014-10-01 22:34:14 For Week 5 HURLEY from 24.114.54.235 who has an ID # of 18, picked: [110] GB, [115] TB, [117] DET, [118] BAL, [114] NYG 
+At 2014-10-01 22:45:11 For Week 5 GORD from 50.181.223.183 who has an ID # of 7, picked: [111] CHI, [121] KC, [123] CIN, [112] CLE, [122] SD 
+At 2014-10-02 09:12:09 For Week 5 STEVENS from 199.235.145.7 who has an ID # of 16, picked: [111] CHI, [113] PHI, [121] SF, [115] NO, [116] HOU 
+At 2014-10-02 15:15:55 For Week 5 GRAMMA from 199.198.251.107 who has an ID # of 6, picked: [123] CIN, [124] SEA, [110] GB, [119] PIT, [122] SD 
+At 2014-10-02 20:30:37 For Week 5 ROGERS from 131.107.159.211 who has an ID # of 13, picked: [114] ATL, [122] SD, [111] CHI, [124] SEA, [119] PIT 
+At 2014-10-03 09:20:48 For Week 5 CHAD from 67.224.86.124 who has an ID # of 8, picked: [111] CHI, [117] BUF, [114] ATL, [112] CLE, [124] SEA 
+At 2014-10-03 13:51:58 For Week 5 HOOPER from 205.166.218.67 who has an ID # of 9, picked: [113] PHI, [114] ATL, [116] DAL, [117] DET, [118] IND 
+At 2014-10-03 21:33:06 For Week 5 MCPHEE from 192.168.3.56 who has an ID # of 3, picked: [111] CHI, [116] HOU, [119] JAX, [124] SEA, [118] IND 
+At 2014-10-03 21:45:15 For Week 5 SOUTH from 96.51.57.136 who has an ID # of 10, picked: [113] PHI, [116] HOU, [120] DEN, [123] CIN, [122] SD 
+At 2014-10-03 23:38:14 For Week 5 DOWDS from 70.51.69.30 who has an ID # of 17, picked: [112] TEN, [113] STL, [119] JAX, [118] IND, [114] ATL 
+At 2014-10-04 05:34:43 For Week 5 SKIP from 166.216.157.23 who has an ID # of 15, picked: [124] SEA, [123] NE, [111] CAR, [118] IND, [121] KC 
+At 2014-10-04 06:32:46 For Week 5 MORGAN from 83.144.16.131 who has an ID # of 12, picked: [114] NYG, [111] CHI, [124] SEA, [116] DAL, [112] TEN 
+At 2014-10-04 10:55:24 For Week 5 DARK from 99.225.157.205 who has an ID # of 5, picked: [114] NYG, [119] PIT, [116] DAL, [120] DEN, [124] SEA 
+At 2014-10-04 12:02:47 For Week 5 MEAT from 184.151.37.228 who has an ID # of 19, picked: [120] DEN, [119] PIT, [118] IND, [122] SD, [112] CLE 
+At 2014-10-04 12:19:41 For Week 5 GUSSY from 174.95.60.84 who has an ID # of 14, picked: [114] ATL, [116] HOU, [118] IND, [119] JAX, [121] KC  
+At 2014-10-09 00:23:28 For Week 6 ROGERS from 71.197.144.40 who has an ID # of 13, picked: [125] HOU, [130] GB, [137] ARI, [135] SD, [126] DEN 
+At 2014-10-09 09:50:21 For Week 6 HOOPER from 205.166.218.67 who has an ID # of 9, picked: [125] IND, [130] GB , [135] SD , [132] CIN, [133] NE  
+At 2014-10-09 15:18:20 For Week 6 STEVENS from 199.235.123.96 who has an ID # of 16, picked: [131] MIN, [130] GB, [125] IND, [129] CHI, [137] WAS 
+At 2014-10-09 20:06:54 For Week 6 GUSSY from 174.95.61.111 who has an ID # of 14, picked: [128] JAX, [125] IND, [132] CIN, [139] STL, [131] MIN 
+At 2014-10-10 09:27:42 For Week 6 CHAD from 67.224.86.124 who has an ID # of 8, picked: [131] MIN, [139] STL, [132] CAR, [129] ATL, [127] PIT 
+At 2014-10-10 21:09:28 For Week 6 DOWDS from 70.51.69.30 who has an ID # of 17, picked: [133] BUF, [126] NYJ, [138] NYG, [130] MIA, [134] BAL 
+At 2014-10-10 21:46:58 For Week 6 SOUTH from 96.51.57.136 who has an ID # of 10, picked: [129] ATL, [136] SEA, [138] PHI, [126] DEN, [134] BAL 
+At 2014-10-11 05:51:13 For Week 6 GORD from 82.66.52.170 who has an ID # of 7, picked: [129] ATL, [133] BUF, [130] MIA, [126] DEN, [135] SD 
+At 2014-10-11 11:43:13 For Week 6 MCPHEE from 72.252.253.94 who has an ID # of 3, picked: [130] MIA, [131] DET, [136] SEA, [127] CLE, [128] TEN 
+At 2014-10-11 11:54:40 For Week 6 DARK from 99.225.157.205 who has an ID # of 5, picked: [139] SF, [130] GB, [133] NE, [126] DEN, [135] SD 
+At 2014-10-11 11:58:28 For Week 6 SKIP from 98.247.20.166 who has an ID # of 15, picked: [137] ARI, [135] SD, [128] TEN, [136] SEA, [127] PIT 
+At 2014-10-11 12:07:35 For Week 6 LONN from 208.54.5.211 who has an ID # of 21, picked: [131] MIN, [139] SF , [135] OAK, [134] BAL, [137] ARI 
+At 2014-10-11 12:13:08 For Week 6 HURLEY from 24.114.70.44 who has an ID # of 18, picked: [126] DEN, [135] SD, [131] MIN, [139] SF, [134] TB 
+At 2014-10-11 12:21:46 For Week 6 GRAMMA from 24.66.230.140 who has an ID # of 6, picked: [131] DET, [134] BAL, [135] SD, [137] ARI, [127] PIT 
+At 2014-10-11 12:34:26 For Week 6 MORGAN from 98.247.20.166 who has an ID # of 12, picked: [133] NE, [126] DEN, [135] SD, [137] WAS, [136] SEA 
+At 2014-10-11 13:51:58 For Week 6 MEAT from 99.239.41.180 who has an ID # of 19, picked: [130] GB, [133] NE, [137] ARI, [129] ATL, [131] DET 
+At 2014-10-14 19:52:27 For Week 6  from 157.55.39.171 who has an ID # of , picked: [] , [] , [] , [] , []  
+At 2014-10-16 17:02:56 For Week 7 HOOPER from 205.166.218.114 who has an ID # of 9, picked: [140] NE , [145] SEA, [150] SD , [152] ARI, [151] DAL 
+At 2014-10-16 20:07:56 For Week 7 GUSSY from 174.95.61.111 who has an ID # of 14, picked: [140] NYJ, [146] CAR, [149] DET, [151] NYG, [153] DEN 
+At 2014-10-16 20:09:54 For Week 7 ROGERS from 131.107.147.250 who has an ID # of 13, picked: [147] BAL, [148] BUF, [143] CHI, [144] CLE, [152] ARI 
+At 2014-10-17 09:13:23 For Week 7 STEVENS from 199.235.145.208 who has an ID # of 16, picked: [148] MIN, [149] NO, [150] KC, [153] SF, [141] CIN 
+At 2014-10-17 13:31:10 For Week 7 CHAD from 67.224.86.124 who has an ID # of 8, picked: [148] BUF, [145] STL, [152] OAK, [142] TEN, [151] NYG 
+At 2014-10-17 16:09:07 For Week 7 GRAMMA from 199.198.251.107 who has an ID # of 6, picked: [149] DET, [141] IND, [144] CLE, [151] DAL, [143] CHI 
+At 2014-10-17 16:17:23 For Week 7 LONN from 199.83.220.194 who has an ID # of 21, picked: [148] MIN, [149] NO , [146] GB , [150] SD , [153] SF  
+At 2014-10-17 17:30:08 For Week 7 GORD from 82.66.52.170 who has an ID # of 7, picked: [141] IND, [143] MIA, [152] ARI, [150] SD, [147] ATL 
+At 2014-10-17 22:54:28 For Week 7 SOUTH from 96.51.57.136 who has an ID # of 10, picked: [147] BAL, [149] DET, [151] NYG, [153] DEN, [154] PIT 
+At 2014-10-18 00:37:16 For Week 7  from 172.56.38.204 who has an ID # of , picked: [] , [] , [] , [] , []  
+At 2014-10-18 09:06:09 For Week 7 DOWDS from 70.51.69.30 who has an ID # of 17, picked: [151] NYG, [148] MIN, [144] JAX, [150] SD, [141] CIN 
+At 2014-10-18 10:27:04 For Week 7 DARK from 99.225.157.205 who has an ID # of 5, picked: [143] CHI, [144] CLE, [145] SEA, [150] SD, [152] ARI 
+At 2014-10-18 12:11:17 For Week 7 MCPHEE from 192.168.3.56 who has an ID # of 3, picked: [146] CAR, [148] BUF, [147] ATL, [142] TEN, [144] JAX 
+At 2014-10-18 12:13:05 For Week 7 MORGAN from 98.247.20.166 who has an ID # of 12, picked: [141] IND, [146] CAR, [150] SD, [152] OAK, [149] NO 
+At 2014-10-18 12:13:10 For Week 7 HURLEY from 24.114.65.211 who has an ID # of 18, picked: [141] CIN, [143] CHI, [145] SEA, [148] BUF, [149] DET 
+At 2014-10-18 12:22:36 For Week 7 MEAT from 24.114.52.188 who has an ID # of 19, picked: [141] IND, [143] CHI, [146] GB, [148] BUF, [151] DAL 
+At 2014-10-18 12:32:09 For Week 7 SKIP from 98.247.20.166 who has an ID # of 15, picked: [145] SEA, [143] CHI, [147] BAL, [146] CAR, [152] ARI 
+At 2014-10-23 00:23:18 For Week 8 SOUTH from 96.51.57.136 who has an ID # of 10, picked: [156] ATL, [159] KC, [166] PIT, [160] SEA, [168] NO 
+At 2014-10-23 03:50:51 For Week 8 LONN from 38.110.166.132 who has an ID # of 21, picked: [155] SD , [160] SEA, [164] CIN, [168] GB , [158] NE  
+At 2014-10-23 11:42:36 For Week 8 HOOPER from 205.166.218.66 who has an ID # of 9, picked: [155] DEN, [158] NE , [165] ARI, [160] SEA, [166] IND 
+At 2014-10-23 13:24:59 For Week 8 DOWDS from 205.210.17.241 who has an ID # of 17, picked: [158] CHI, [169] WAS, [168] NO, [161] NYJ, [166] IND 
+At 2014-10-23 23:02:41 For Week 8 GORD from 166.137.246.32 who has an ID # of 7, picked: [167] CLE, [166] IND, [169] WAS, [159] STL, [156] ATL 
+At 2014-10-23 23:44:49 For Week 8 ROGERS from 67.170.10.238 who has an ID # of 13, picked: [158] NE, [163] HOU, [166] IND, [164] BAL, [161] BUF 
+At 2014-10-24 08:32:48 For Week 8 SKIP from 166.137.246.125 who has an ID # of 15, picked: [156] DET, [160] SEA, [164] BAL, [168] GB, [163] HOU 
+At 2014-10-24 13:52:04 For Week 8 CHAD from 67.224.86.124 who has an ID # of 8, picked: [168] GB, [158] CHI, [169] WAS, [163] TEN, [162] JAX 
+At 2014-10-24 19:35:27 For Week 8 STEVENS from 24.141.128.141 who has an ID # of 16, picked: [161] NYJ, [165] PHI, [160] SEA, [157] TB, [166] PIT 
+At 2014-10-24 20:18:38 For Week 8 MCPHEE from 192.168.3.56 who has an ID # of 3, picked: [157] MIN, [156] ATL, [166] IND, [164] CIN, [165] ARI 
+At 2014-10-25 09:48:56 For Week 8 DARK from 99.225.157.205 who has an ID # of 5, picked: [156] DET, [159] KC, [160] SEA, [163] HOU, [166] IND 
+At 2014-10-25 11:59:20 For Week 8 GUSSY from 199.119.233.180 who has an ID # of 14, picked: [164] CIN, [161] BUF, [166] IND, [169] WAS, [163] HOU 
+At 2014-10-25 12:09:06 For Week 8 MEAT from 201.134.110.102 who has an ID # of 19, picked: [158] NE, [157] TB, [166] IND, [164] BAL, [163] HOU 
+At 2014-10-25 12:20:34 For Week 8 HURLEY from 72.143.224.60 who has an ID # of 18, picked: [166] IND, [156] ATL, [158] CHI, [159] STL, [164] BAL 
+At 2014-10-25 12:59:58 For Week 8 MORGAN from 98.247.20.166 who has an ID # of 12, picked: [169] DAL, [156] DET, [166] IND, [168] NO, [162] JAX 
+At 2014-10-30 12:10:10 For Week 9 GRAMMA from 207.195.91.66 who has an ID # of 6, picked: [179] DEN, [180] SEA, [178] STL, [174] WAS, [182] IND 
+At 2014-10-30 12:14:22 For Week 9 MEAT from 24.114.55.46 who has an ID # of 19, picked: [176] KC, [178] SF, [179] NE, [181] PIT, [173] CLE 
+At 2014-10-30 13:30:52 For Week 9 GORD from 50.181.223.183 who has an ID # of 7, picked: [182] IND, [174] WAS, [171] SD, [177] DAL, [173] TB 
+At 2014-10-30 15:36:50 For Week 9 HOOPER from 199.119.233.190 who has an ID # of 9, picked: [170] NO, [171] SD, [181] PIT, [182] IND, [173] CLE 
+At 2014-10-31 12:50:33 For Week 9 CHAD from 67.224.86.124 who has an ID # of 8, picked: [180] OAK, [178] STL, [173] CLE, [172] JAX, [182] NYG 
+At 2014-10-31 19:17:22 For Week 9 SOUTH from 96.51.56.20 who has an ID # of 10, picked: [171] SD, [175] HOU, [181] PIT, [182] IND, [178] STL 
+At 2014-11-01 01:31:44 For Week 9 ROGERS from 71.197.144.40 who has an ID # of 13, picked: [181] BAL, [175] HOU, [174] WAS, [173] CLE, [171] SD 
+At 2014-11-01 09:35:03 For Week 9 STEVENS from 199.235.123.97 who has an ID # of 16, picked: [171] SD, [175] PHI, [174] WAS, [176] NYJ, [180] SEA 
+At 2014-11-01 09:38:53 For Week 9 DARK from 99.225.157.205 who has an ID # of 5, picked: [171] SD, [175] PHI, [177] ARI, [178] SF, [176] NYJ 
+At 2014-11-01 12:05:01 For Week 9 DOWDS from 70.48.37.190 who has an ID # of 17, picked: [175] PHI, [177] ARI, [172] JAX, [179] DEN, [181] BAL 
+At 2014-11-01 12:42:50 For Week 9 MORGAN from 98.247.20.166 who has an ID # of 12, picked: [171] SD, [174] WAS, [181] PIT, [175] PHI, [177] DAL 
+At 2014-11-01 12:48:43 For Week 9 HURLEY from 72.143.226.76 who has an ID # of 18, picked: [177] ARI, [180] OAK, [178] STL, [172] JAX, [182] IND 
+At 2014-11-01 12:58:36 For Week 9 GUSSY from 174.95.61.111 who has an ID # of 14, picked: [171] SD , [179] DEN, [177] ARI, [181] PIT, [178] STL 
+At 2014-11-01 13:09:13 For Week 9 SKIP from 98.247.20.166 who has an ID # of 15, picked: [175] HOU, [171] SD, [179] NE, [180] SEA, [181] BAL 
+At 2014-11-01 13:24:37 For Week 9 MCPHEE from 192.168.3.56 who has an ID # of 3, picked: [177] ARI, [173] TB, [181] PIT, [172] JAX, [180] OAK 
+At 2014-11-05 21:04:59 For Week 10 HURLEY from 24.114.67.116 who has an ID # of 18, picked: [191] DEN, [193] SEA, [188] TEN, [187] NO, [186] BUF 
+At 2014-11-05 21:05:44 For Week 10 SOUTH from 96.51.56.20 who has an ID # of 10, picked: [183] CLE, [187] NO, [185] DET, [194] GB, [186] BUF 
+At 2014-11-05 21:10:50 For Week 10 MEAT from 99.239.41.180 who has an ID # of 19, picked: [189] PIT, [193] SEA, [194] GB, [183] CLE, [190] ATL 
+At 2014-11-05 21:19:13 For Week 10 STEVENS from 207.219.69.221 who has an ID # of 16, picked: [192] STL, [193] SEA, [186] KC, [191] DEN, [185] MIA 
+At 2014-11-05 23:04:16 For Week 10 ROGERS from 71.197.144.40 who has an ID # of 13, picked: [187] SF, [194] GB, [189] PIT, [186] BUF, [185] DET 
+At 2014-11-06 00:35:26 For Week 10 GORD from 107.77.72.92 who has an ID # of 7, picked: [183] CLE, [185] MIA, [192] STL, [190] ATL, [194] GB 
+At 2014-11-06 09:36:17 For Week 10 CHAD from 67.224.86.124 who has an ID # of 8, picked: [193] NYG, [184] JAX, [185] MIA, [190] ATL, [183] CLE 
+At 2014-11-06 11:34:00 For Week 10 HOOPER from 205.166.218.114 who has an ID # of 9, picked: [185] DET, [189] PIT, [190] ATL, [194] GB , [192] ARI 
+At 2014-11-06 12:05:29 For Week 10 LONN from 38.110.166.132 who has an ID # of 21, picked: [191] OAK, [192] STL, [193] SEA, [194] CHI, [195] CAR 
+At 2014-11-07 16:50:28 For Week 10 GRAMMA from 184.70.95.194 who has an ID # of 6, picked: [194] GB, [193] NYG, [186] BUF, [192] STL, [191] DEN 
+At 2014-11-08 12:12:30 For Week 10 SKIP from 98.247.20.166 who has an ID # of 15, picked: [185] MIA, [190] TB, [191] DEN, [193] SEA, [189] PIT 
+At 2014-11-08 12:51:16 For Week 10 MORGAN from 98.247.20.166 who has an ID # of 12, picked: [194] GB, [188] TEN, [190] TB, [185] DET, [192] ARI 
+At 2014-11-08 12:53:59 For Week 10 MCPHEE from 192.168.3.56 who has an ID # of 3, picked: [194] GB, [190] ATL, [186] BUF, [188] TEN, [187] NO 
+At 2014-11-08 13:03:30 For Week 10 GUSSY from 69.158.22.131 who has an ID # of 14, picked: [185] MIA, [190] ATL, [192] STL, [193] NYG, [195] CAR 
+At 2014-11-08 13:23:26 For Week 10 DARK from 99.225.157.205 who has an ID # of 5, picked: [189] PIT, [188] BAL, [193] NYG, [191] DEN, [194] GB 
+At 2014-11-08 21:07:04 For Week 10 DOWDS from 192.168.3.56 who has an ID # of 17, picked: [186] BUF, [185] MIA, [189] NYJ, [193] NYG, [187] NO 
+At 2014-11-13 08:01:55 For Week 11 SOUTH from 96.51.56.20 who has an ID # of 10, picked: [196] MIA, [197] CLE, [200] KC, [202] NO, [201] CAR 
+At 2014-11-13 08:45:33 For Week 11 STEVENS from 199.235.144.210 who has an ID # of 16, picked: [197] HOU, [204] DEN, [200] SEA, [205] SF, [201] ATL 
+At 2014-11-13 10:39:21 For Week 11 HOOPER from 205.166.218.70 who has an ID # of 9, picked: [196] BUF, [207] DET, [201] ATL, [199] GB , [200] SEA 
+At 2014-11-13 17:17:37 For Week 11 GUSSY from 184.151.190.39 who has an ID # of 14, picked: [196] BUF, [199] PHI, [207] ARI, [202] CIN, [201] CAR 
+At 2014-11-14 13:49:39 For Week 11 CHAD from 67.224.86.124 who has an ID # of 8, picked: [206] SD, [201] ATL, [202] CIN, [204] DEN, [205] NYG 
+At 2014-11-14 14:20:59 For Week 11 ROGERS from 131.107.160.204 who has an ID # of 13, picked: [197] CLE, [202] NO, [205] SF, [207] DET, [208] NE 
+At 2014-11-15 04:57:23 For Week 11 GORD from 82.120.220.169 who has an ID # of 7, picked: [197] CLE, [198] MIN, [207] ARI, [204] DEN, [205] SF 
+At 2014-11-15 09:28:15 For Week 11 MEAT from 24.114.77.91 who has an ID # of 19, picked: [199] GB, [201] CAR, [208] NE, [205] SF, [198] CHI 
+At 2014-11-15 11:31:45 For Week 11 DARK from 99.225.157.205 who has an ID # of 5, picked: [209] PIT, [204] DEN, [197] CLE, [206] OAK, [202] CIN 
+At 2014-11-15 11:35:01 For Week 11 DOWDS from 70.48.37.190 who has an ID # of 17, picked: [203] TB, [201] CAR, [197] CLE, [198] CHI, [207] DET 
+At 2014-11-15 11:53:42 For Week 11 SKIP from 166.137.246.23 who has an ID # of 15, picked: [207] ARI, [198] MIN, [200] SEA, [199] GB, [208] NE 
+At 2014-11-15 12:08:58 For Week 11 HURLEY from 24.114.77.42 who has an ID # of 18, picked: [197] CLE, [198] CHI, [206] OAK, [202] NO, [205] SF 
+At 2014-11-15 12:19:32 For Week 11 MORGAN from 98.247.20.166 who has an ID # of 12, picked: [198] MIN, [200] SEA, [202] NO, [206] OAK, [208] IND 
+At 2014-11-15 12:22:59 For Week 11 LONN from 208.54.4.212 who has an ID # of 21, picked: [206] SD , [205] NYG, [204] DEN, [201] ATL, [208] NE  
+At 2014-11-15 13:38:53 For Week 11 MCPHEE from 192.168.3.56 who has an ID # of 3, picked: [201] CAR, [199] PHI, [205] SF, [198] MIN, [203] TB 
+At 2014-11-16 18:46:18 For Week 11  from 99.225.157.205 who has an ID # of , picked: [] , [] , [] , [] , []  
+At 2014-11-19 09:56:12 For Week 12 HOOPER from 205.166.218.67 who has an ID # of 9, picked: [] CLE, [] KC , [] GB , [] STL, [] DAL 
+At 2014-11-20 20:16:19 For Week 12 ROGERS from 131.107.174.229 who has an ID # of 13, picked: [223] DAL, [221] DEN, [219] ARI, [220] STL, [210] KC 
+At 2014-11-21 00:27:50 For Week 12 SOUTH from 67.52.137.164 who has an ID # of 10, picked: [221] DEN, [211] ATL, [219] SEA, [220] SD, [224] NO 
+At 2014-11-21 03:28:56 For Week 12 GORD from 167.220.196.223 who has an ID # of 7, picked: [213] NE, [218] TB, [223] DAL, [224] BAL, [219] ARI 
+At 2014-11-21 11:19:04 For Week 12 CHAD from 67.224.86.124 who has an ID # of 8, picked: [215] JAX, [212] TEN, [221] MIA, [224] BAL, [219] ARI 
+At 2014-11-21 12:59:59 For Week 12 HOOPER from 192.168.3.56 who has an ID # of 9, picked: [211] CLE, [210] KC, [214] GB, [220] STL, [223] DAL 
+At 2014-11-21 14:42:21 For Week 12 MEAT from 99.239.41.180 who has an ID # of 19, picked: [221] DEN, [213] NE, [211] CLE, [219] ARI, [217] NYJ 
+At 2014-11-22 09:00:59 For Week 12 HURLEY from 24.114.48.68 who has an ID # of 18, picked: [213] DET, [216] CIN, [221] DEN, [219] ARI, [218] CHI 
+At 2014-11-22 09:34:31 For Week 12 STEVENS from 199.235.123.97 who has an ID # of 16, picked: [214] GB, [217] NYJ, [216] HOU, [222] SF, [211] ATL 
+At 2014-11-22 10:23:59 For Week 12 GRAMMA from 204.191.121.4 who has an ID # of 6, picked: [219] ARI, [221] MIA, [223] DAL, [224] BAL, [214] GB 
+At 2014-11-22 11:08:06 For Week 12 SKIP from 98.247.20.166 who has an ID # of 15, picked: [212] TEN, [219] SEA, [222] WAS, [213] NE, [211] CLE 
+At 2014-11-22 11:28:51 For Week 12 DARK from 99.225.157.205 who has an ID # of 5, picked: [221] DEN, [213] NE, [214] GB, [222] SF, [223] DAL 
+At 2014-11-22 11:32:33 For Week 12 MORGAN from 98.247.20.166 who has an ID # of 12, picked: [214] GB, [223] DAL, [224] NO, [216] CIN, [215] IND 
+At 2014-11-22 11:51:01 For Week 12 LONN from 38.110.166.132 who has an ID # of 21, picked: [214] MIN, [222] SF , [219] SEA, [223] NYG, [224] BAL 
+At 2014-11-22 12:12:48 For Week 12 GUSSY from 69.158.22.131 who has an ID # of 14, picked: [211] CLE, [212] PHI, [214] GB , [216] CIN, [220] SD  
+At 2014-11-22 13:37:52 For Week 12 DOWDS from 70.51.68.162 who has an ID # of 17, picked: [214] MIN, [219] SEA, [217] BUF, [218] TB, [213] DET 
+At 2014-11-22 15:14:32 For Week 12 MCPHEE from 192.168.3.56 who has an ID # of 3, picked: [216] CIN, [220] STL, [221] DEN, [222] WAS, [223] NYG 
+At 2014-11-26 20:08:16 For Week 13 GRAMMA from 204.191.121.4 who has an ID # of 6, picked: [242] SEA, [250] PIT, [254] DEN, [255] MIA, [248] CIN 
+At 2014-11-26 20:18:52 For Week 13 CHAD from 76.66.165.220 who has an ID # of 8, picked: [246] BAL, [242] SF, [252] ATL, [253] GB, [245] BUF 
+At 2014-11-26 20:19:35 For Week 13 LONN from 199.83.220.194 who has an ID # of 21, picked: [251] CAR, [252] ATL, [253] NE , [254] KC , [255] NYJ 
+At 2014-11-26 20:29:09 For Week 13 HURLEY from 24.114.68.35 who has an ID # of 18, picked: [240] DET, [241] DAL, [242] SF, [243] IND, [252] ARI 
+At 2014-11-26 22:11:58 For Week 13 MEAT from 67.159.191.98 who has an ID # of 19, picked: [246] BAL, [245] BUF, [240] CHI, [248] CIN, [241] DAL 
+At 2014-11-26 22:26:52 For Week 13 SKIP from 208.181.190.98 who has an ID # of 15, picked: [242] SEA, [253] NE, [254] DEN, [240] CHI, [248] TB 
+At 2014-11-26 23:14:48 For Week 13 SOUTH from 70.65.152.29 who has an ID # of 10, picked: [254] KC, [250] PIT, [245] BUF, [251] MIN, [246] BAL 
+At 2014-11-27 00:15:39 For Week 13 MORGAN from 208.181.190.98 who has an ID # of 12, picked: [252] ATL, [240] DET, [248] CIN, [255] MIA, [247] NYG 
+At 2014-11-27 03:14:32 For Week 13 GORD from 167.220.196.175 who has an ID # of 7, picked: [245] CLE, [247] NYG, [254] DEN, [248] CIN, [241] DAL 
+At 2014-11-27 08:32:51 For Week 13 GUSSY from 69.158.22.131 who has an ID # of 14, picked: [241] DAL, [242] SF , [250] PIT, [252] ARI, [253] NE  
+At 2014-11-27 09:41:46 For Week 13  from 199.235.146.100 who has an ID # of , picked: [] , [] , [] , [] , []  
+At 2014-11-27 09:43:47 For Week 13 STEVENS from 199.235.146.100 who has an ID # of 16, picked: [240] CHI, [245] CLE, [243] IND, [254] DEN, [252] ARI 
+At 2014-11-27 09:51:03 For Week 13 HOOPER from 205.166.218.69 who has an ID # of 9, picked: [240] DET, [241] DAL, [242] SEA, [245] CLE, [248] CIN 
+At 2014-11-27 12:21:14 For Week 13 ROGERS from 71.197.144.40 who has an ID # of 13, picked: [241] DAL, [245] BUF, [249] STL, [253] NE, [255] MIA 
+At 2014-11-28 18:55:11 For Week 13 DOWDS from 70.30.125.189 who has an ID # of 17, picked: [245] BUF, [251] MIN, [252] ATL, [254] KC, [247] JAX 
+At 2014-11-29 12:04:29 For Week 13 MCPHEE from 199.7.157.36 who has an ID # of 3, picked: [247] JAX, [245] CLE, [253] NE, [254] DEN, [249] STL 
+At 2014-11-29 13:20:59 For Week 13 DARK from 99.225.157.205 who has an ID # of 5, picked: [243] IND, [250] PIT, [248] CIN, [254] DEN, [246] BAL 
+At 2014-12-03 20:00:43 For Week 14 GRAMMA from 108.173.254.138 who has an ID # of 6, picked: [269] SEA, [268] SF, [270] NE, [261] TEN, [259] IND 
+At 2014-12-04 00:50:12 For Week 14 GORD from 213.174.109.52 who has an ID # of 7, picked: [268] SF, [256] DAL, [258] PIT, [257] MIA, [267] KC 
+At 2014-12-04 09:36:58 For Week 14 HOOPER from 205.166.218.65 who has an ID # of 9, picked: [256] DAL, [257] BAL, [270] NE , [267] KC , [264] STL 
+At 2014-12-04 23:51:33 For Week 14 SOUTH from 70.65.152.29 who has an ID # of 10, picked: [258] CIN, [259] IND, [264] STL, [267] KC, [270] NE 
+At 2014-12-05 12:57:19 For Week 14 DOWDS from 205.210.17.241 who has an ID # of 17, picked: [263] TB, [267] ARI, [264] WAS, [261] NYG, [259] CLE 
+At 2014-12-05 16:04:58 For Week 14 CHAD from 67.224.86.124 who has an ID # of 8, picked: [260] JAX, [269] PHI, [268] OAK, [259] CLE, [264] STL 
+At 2014-12-05 16:28:39 For Week 14 MEAT from 24.114.78.189 who has an ID # of 19, picked: [259] IND, [264] STL, [261] NYG, [267] KC, [268] OAK 
+At 2014-12-05 17:25:27 For Week 14 ROGERS from 131.107.174.165 who has an ID # of 13, picked: [260] HOU, [264] STL, [270] NE, [269] SEA, [259] IND 
+At 2014-12-06 08:35:16 For Week 14 STEVENS from 24.141.128.141 who has an ID # of 16, picked: [258] PIT, [271] GB, [263] TB, [259] IND, [266] DEN 
+At 2014-12-06 09:16:45 For Week 14  from 99.225.157.205 who has an ID # of , picked: [] , [] , [] , [] , []  
+At 2014-12-06 11:19:22 For Week 14 DARK from 99.225.157.205 who has an ID # of 5, picked: [260] HOU, [270] NE, [262] NO, [264] STL, [268] SF 
+At 2014-12-06 12:05:01 For Week 14 GUSSY from 174.95.61.137 who has an ID # of 14, picked: [261] TEN, [263] TB , [269] SEA, [258] CIN, [257] MIA 
+At 2014-12-06 12:11:43 For Week 14 SKIP from 107.77.75.31 who has an ID # of 15, picked: [269] SEA, [266] DEN, [258] PIT, [267] KC, [260] JAX 
+At 2014-12-06 12:13:52 For Week 14 MORGAN from 98.247.20.166 who has an ID # of 12, picked: [259] IND, [261] TEN, [263] TB, [265] NYJ, [270] NE 
+At 2014-12-06 12:33:46 For Week 14 HURLEY from 24.114.70.236 who has an ID # of 18, picked: [269] SEA, [268] OAK, [259] IND, [260] HOU, [261] TEN 
+At 2014-12-06 14:04:36 For Week 14 MCPHEE from 192.168.3.78 who has an ID # of 3, picked: [261] TEN, [258] PIT, [265] MIN, [259] IND, [268] SF 
+At 2014-12-11 11:31:16 For Week 15 CHAD from 67.224.86.124 who has an ID # of 8, picked: [272] STL, [281] BUF, [280] NYG, [286] PHI, [277] CLE 
+At 2014-12-11 14:01:00 For Week 15 GRAMMA from 199.198.251.107 who has an ID # of 6, picked: [281] GB, [283] TEN, [272] ARI, [287] CHI, [273] KC 
+At 2014-12-11 14:19:32 For Week 15 GORD from 107.77.72.29 who has an ID # of 7, picked: [279] TB, [277] CLE, [278] NE, [275] PIT, [272] STL 
+At 2014-12-11 16:03:11 For Week 15 HOOPER from 205.166.218.66 who has an ID # of 9, picked: [287] NO , [278] NE , [279] TB , [280] NYG, [281] GB  
+At 2014-12-11 17:05:19 For Week 15 MEAT from 99.239.41.180 who has an ID # of 19, picked: [272] STL, [275] PIT, [277] CIN, [286] PHI, [283] NYJ 
+At 2014-12-11 19:48:29 For Week 15 GUSSY from 174.95.61.137 who has an ID # of 14, picked: [272] STL, [277] CLE, [279] TB , [283] NYJ, [285] SEA 
+At 2014-12-11 23:52:13 For Week 15 SOUTH from 70.65.152.29 who has an ID # of 10, picked: [276] IND, [286] PHI, [281] BUF, [282] MIN, [280] NYG 
+At 2014-12-12 19:33:06 For Week 15 STEVENS from 216.221.84.28 who has an ID # of 16, picked: [275] PIT, [277] CLE, [281] GB, [282] MIN, [285] SF 
+At 2014-12-12 21:24:37 For Week 15 DOWDS from 70.51.69.230 who has an ID # of 17, picked: [281] BUF, [282] MIN, [284] SD, [286] PHI, [287] NO 
+At 2014-12-13 02:33:23 For Week 15 ROGERS from 71.197.144.40 who has an ID # of 13, picked: [275] ATL, [274] JAX, [282] DET, [281] GB, [284] DEN 
+At 2014-12-13 12:03:28 For Week 15 HURLEY from 24.114.70.251 who has an ID # of 18, picked: [273] OAK, [274] JAX, [279] TB, [280] NYG, [281] GB 
+At 2014-12-13 12:22:35 For Week 15  from 99.225.157.205 who has an ID # of , picked: [288] , [288] , [288] , [288] , [288]  
+At 2014-12-13 12:22:45 For Week 15  from 99.225.157.205 who has an ID # of , picked: [288] , [288] , [288] , [288] , [288]  
+At 2014-12-13 12:25:08 For Week 15 SKIP from 24.16.155.30 who has an ID # of 15, picked: [276] IND, [285] SEA, [284] DEN, [278] NE, [281] GB 
+At 2014-12-13 12:27:42 For Week 15 DARK from 99.225.157.205 who has an ID # of 5, picked: [273] OAK, [276] IND, [281] GB, [282] DET, [284] DEN 
+At 2014-12-13 13:19:17 For Week 15 MORGAN from 24.16.155.30 who has an ID # of 12, picked: [287] NO, [279] CAR, [282] DET, [283] TEN, [286] PHI 
+At 2014-12-13 13:42:47 For Week 15 MCPHEE from 199.87.83.134 who has an ID # of 3, picked: [281] GB, [274] JAX, [279] CAR, [286] DAL, [280] NYG 
+At 2014-12-18 15:54:14 For Week 16 HOOPER from 205.166.218.71 who has an ID # of 9, picked: [304] DEN, [303] ARI, [294] DET, [295] NO , [300] STL 
+At 2014-12-18 18:45:02 For Week 16 GUSSY from 207.164.79.105 who has an ID # of 14, picked: [289] JAX, [296] NE , [298] CAR, [300] STL, [303] ARI 
+At 2014-12-18 20:15:02 For Week 16 SOUTH from 70.65.152.29 who has an ID # of 10, picked: [290] SD, [297] PIT, [298] CAR, [299] BAL, [304] CIN 
+At 2014-12-19 20:02:11 For Week 16 STEVENS from 24.141.128.141 who has an ID # of 16, picked: [293] GB, [291] WAS, [295] ATL, [299] BAL, [304] CIN 
+At 2014-12-19 23:44:48 For Week 16 ROGERS from 71.197.144.40 who has an ID # of 13, picked: [301] BUF, [292] MIA, [296] NE, [300] STL, [294] DET 
+At 2014-12-20 02:09:11 For Week 16 GORD from 90.35.29.238 who has an ID # of 7, picked: [291] PHI, [294] DET, [295] ATL, [298] CAR, [303] SEA 
+At 2014-12-20 10:03:38 For Week 16 DARK from 99.225.157.205 who has an ID # of 5, picked: [295] NO, [302] IND, [294] DET, [299] BAL, [296] NE 
+At 2014-12-20 11:56:38 For Week 16 MORGAN from 24.16.155.30 who has an ID # of 12, picked: [290] SD, [293] GB, [294] DET, [295] NO, [297] KC 
+At 2014-12-20 12:01:14 For Week 16 SKIP from 24.16.155.30 who has an ID # of 15, picked: [296] NE, [293] GB, [294] DET, [291] PHI, [303] SEA 
+At 2014-12-20 12:42:45 For Week 16 HURLEY from 24.114.55.196 who has an ID # of 18, picked: [301] OAK, [303] ARI, [298] CLE, [299] BAL, [295] NO 
+At 2014-12-20 12:59:57 For Week 16 DOWDS from 70.48.39.189 who has an ID # of 17, picked: [295] ATL, [299] HOU, [297] PIT, [293] GB, [303] ARI 
+At 2014-12-20 13:02:31 For Week 16 CHAD from 24.114.55.253 who has an ID # of 8, picked: [302] IND, [304] DEN, [296] NE, [291] PHI, [295] ATL 
+At 2014-12-20 13:27:25 For Week 16 MCPHEE from 192.168.3.55 who has an ID # of 3, picked: [290] SD, [303] ARI, [304] DEN, [298] CLE, [296] NYJ 
+At 2014-12-20 13:50:54 For Week 16 MEAT from 99.239.41.180 who has an ID # of 19, picked: [298] CAR, [297] PIT, [290] SF, [304] DEN, [299] BAL 
+At 2014-12-25 14:39:19 For Week 17 SOUTH from 208.118.126.250 who has an ID # of 10, picked: [308] PIT, [313] CAR, [315] SD, [310] CLE, [306] GB 
+At 2014-12-26 12:35:30 For Week 17 STEVENS from 24.141.128.141 who has an ID # of 16, picked: [308] PIT, [312] NYJ, [318] NO, [317] WAS, [316] PHI 
+At 2014-12-26 21:11:37 For Week 17 MEAT from 99.239.41.180 who has an ID # of 19, picked: [313] ATL, [314] MIN, [317] WAS, [318] NO, [311] NE 
+At 2014-12-27 00:20:53 For Week 17 MORGAN from 24.16.155.30 who has an ID # of 12, picked: [315] KC, [314] MIN, [311] NE, [310] CLE, [308] CIN 
+At 2014-12-27 03:30:47 For Week 17 GORD from 90.44.5.75 who has an ID # of 7, picked: [306] GB, [308] CIN, [311] BUF, [319] SEA, [317] DAL 
+At 2014-12-27 08:39:21 For Week 17 DOWDS from 70.48.39.189 who has an ID # of 17, picked: [312] MIA, [321] DEN, [309] IND, [317] WAS, [311] NE 
+At 2014-12-27 09:30:44 For Week 17 ROGERS from 107.77.68.94 who has an ID # of 13, picked: [306] DET, [308] CIN, [313] ATL, [319] SEA, [320] ARI 
+At 2014-12-27 11:12:18 For Week 17 MCPHEE from 65.95.134.72 who has an ID # of 3, picked: [306] GB, [318] NO, [313] CAR, [308] PIT, [315] SD 
+At 2014-12-27 11:50:33 For Week 17 GUSSY from 76.66.167.204 who has an ID # of 14, picked: [308] PIT, [311] BUF, [314] CHI, [319] STL, [321] OAK 
+At 2014-12-27 12:14:50 For Week 17 SKIP from 24.16.155.30 who has an ID # of 15, picked: [318] NO, [307] HOU, [311] NE, [308] PIT, [319] SEA 
+At 2014-12-27 12:20:22 For Week 17 GRAMMA from 207.219.69.233 who has an ID # of 6, picked: [319] SEA, [308] CIN, [306] GB, [320] ARI, [313] ATL 
+At 2014-12-27 12:48:30 For Week 17  from 99.225.157.205 who has an ID # of , picked: [] , [] , [] , [] , []  
+At 2014-12-27 12:48:34 For Week 17  from 99.225.157.205 who has an ID # of , picked: [] , [] , [] , [] , []  
+At 2014-12-27 12:53:52 For Week 17 DARK from 99.225.157.205 who has an ID # of 5, picked: [315] KC, [319] SEA, [311] NE, [312] MIA, [317] DAL 
+At 2014-12-27 13:53:50 For Week 17 CHAD from 24.114.66.53 who has an ID # of 8, picked: [311] NE, [313] ATL, [310] CLE, [319] SEA, [318] NO 
+At 2014-12-27 14:35:08 For Week 17 HOOPER from 65.95.134.72 who has an ID # of 9, picked: [317] DAL, [306] DET, [320] SF, [308] PIT, [316] PHI 
+At 2014-12-28 21:41:16 For Week 17  from 99.225.157.205 who has an ID # of , picked: [] , [] , [] , [] , []  
+At 2014-12-28 23:26:57 For Week 17  from 99.225.157.205 who has an ID # of , picked: [] , [] , [] , [] , []  
+At 2014-12-28 23:26:59 For Week 17  from 99.225.157.205 who has an ID # of , picked: [] , [] , [] , [] , []  
+At 2015-09-19 13:30:59 For Week 99 MCPHEE from 206.160.160.254 who has an ID # of 3, picked: [345] NE, [345] NE, [345] NE, [345] NE, [345] NE 

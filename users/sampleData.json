@@ -1,0 +1,131 @@
+{
+
+
+  "cols": [
+        {"id":"","label":"Topping","pattern":"","type":"string"},
+        {"id":"","label":"Slices","pattern":"","type":"number"}
+      ],
+
+
+  "rows": [
+		{"username":"CHAD","Total":"8.0"},
+		{"username":"DOWDS","Total":"8.0"},
+		{"username":"ROGERS","Total":"7.0"},
+		{"username":"HOOPER","Total":"6.0"},
+		{"username":"FITZ","Total":"6.0"},
+		{"username":"GUSSY","Total":"5.0"},
+		{"username":"MORGAN","Total":"5.0"},
+		{"username":"GRAMMA","Total":"5.0"},
+		{"username":"STEVENS","Total":"4.0"},
+		{"username":"GORD","Total":"4.0"},
+		{"username":"SKIP","Total":"4.0"},
+		{"username":"HURLEY","Total":"3.0"},
+		{"username":"SOUTH","Total":"3.0"},
+		{"username":"DARK","Total":"3.0"},
+		{"username":"MCPHEE","Total":"2.0"}
+	  ]
+	  
+}
+
+{
+  "cols": [
+        {"id":"","label":"Topping","pattern":"","type":"string"},
+        {"id":"","label":"Slices","pattern":"","type":"number"}
+      ],
+  "rows": [
+        {"c":[{"v":"Mushrooms","f":null},{"v":3,"f":null}]},
+        {"c":[{"v":"Onions","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Olives","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Zucchini","f":null},{"v":1,"f":null}]},
+        {"c":[{"v":"Pepperoni","f":null},{"v":2,"f":null}]}
+      ]
+}
+
+
+{
+	cols: [
+		{id: '0',label: 'username'}, 
+		{id: '1',label: 'Total'}],
+	rows: [
+		{c: [{v: 'CHAD'}, {v: 8.0}]},
+		{c: [{v: 'DOWDS'}, {v: 8.0}]},
+		{
+		c: [{
+			v: 'ROGERS'
+		}, {
+			v: 7.0
+		}]
+	}, {
+		c: [{
+			v: 'HOOPER'
+		}, {
+			v: 6.0
+		}]
+	}, {
+		c: [{
+			v: 'FITZ'
+		}, {
+			v: 6.0
+		}]
+	}, {
+		c: [{
+			v: 'GUSSY'
+		}, {
+			v: 5.0
+		}]
+	}, {
+		c: [{
+			v: 'MORGAN'
+		}, {
+			v: 5.0
+		}]
+	}, {
+		c: [{
+			v: 'GRAMMA'
+		}, {
+			v: 5.0
+		}]
+	}, {
+		c: [{
+			v: 'STEVENS'
+		}, {
+			v: 4.0
+		}]
+	}, {
+		c: [{
+			v: 'GORD'
+		}, {
+			v: 4.0
+		}]
+	}, {
+		c: [{
+			v: 'SKIP'
+		}, {
+			v: 4.0
+		}]
+	}, {
+		c: [{
+			v: 'HURLEY'
+		}, {
+			v: 3.0
+		}]
+	}, {
+		c: [{
+			v: 'SOUTH'
+		}, {
+			v: 3.0
+		}]
+	}, {
+		c: [{
+			v: 'DARK'
+		}, {
+			v: 3.0
+		}]
+	}, {
+		c: [{
+			v: 'MCPHEE'
+		}, {
+			v: 2.0
+		}]
+	}]
+}

@@ -1,0 +1,13 @@
+
+create new SQL database (in phpMyAdmin)
+Switch connections.php to point to new DB
+
+update the week definitions in the connections.php file
+
+update link in the reminder email template (mailer.php)
+
+schedule of games? where do i get this, where do i upload
+
+Check on pinnacle API to pull realtime logs
+
+Update the home team lists
