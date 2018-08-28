@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>This Week's Picks</title>
+<!--
+<link rel="stylesheet" type="text/css" href="view.css" media="all">
+<script type="text/javascript" src="view.js"></script>
+-->
+<link rel="stylesheet" type="text/css" href="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0/css/bootstrap.min.css">
+<link href="http://getbootstrap.com/2.3.2/assets/css/bootstrap-responsive.css" rel="stylesheet">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+const maxPicks = 3; //set to whatever
+let pickArray = []; //initalize to empty
+
+class Pick {
+  constructor(game,winningTeam) {
+    this.game = game;
+    this.winningTeam = winningTeam;
+  }
+}
+
+function atMaxNumberOfPicks(){
+  if (pickArray.length == maxPicks){
+    alert("Max Picks Dude");
+    console.log("Picks= " + maxPicks);
+    return true;
+  } else if (pickArray.length < maxPicks){
+    console.log(" < " + maxPicks + " picks " + pickArray.length);
+    return false;
+  } else {
+    console.log ("something wrong with number of picks");
+    return false;
+  }
+}
+
+function doesGamePickExist(game){
+  for (let i=0; i < pickArray.length; i++){
+    if (game==pickArray[i].game){
+        console.log("Found game: " + game + " in array spot [" +i +"]");
+        return i;
+    }
+  }
+  return null;
+}
+
+function addPick(game, winningTeam) {
+  let gameToAddOrUpdate = doesGamePickExist(game);
+  if (gameToAddOrUpdate===null){
+    console.log("Game " + game + " is not in the array. Try to Add");
+
+    if (!atMaxNumberOfPicks()){
+      console.log("Room to add a pick");
+      let pick = new Pick(game,winningTeam);
+      pickArray.push(pick);
+      console.log("Game: " + pick.game + " Winning Team: " + pick.winningTeam + " added to array");
+      printArrayForm();
+      checkSubmitButton();
+    } else {
+      let radioButtonToClear = document.getElementById('radioGame' + game + "_" + winningTeam);
+      console.log("Deselecting Radio Button since at Max: " + 'radioGame' + game + "_" + winningTeam);
+      radioButtonToClear.checked=false;   //uncheck radio button
+    }
+  } else {
+    //update the winner for game
+    let pick = new Pick(game,winningTeam);
+    pickArray[gameToAddOrUpdate].game = pick.game;
+    pickArray[gameToAddOrUpdate].winningTeam = pick.winningTeam;
+    printArrayForm();
+    console.log("Game: " + pickArray[gameToAddOrUpdate].game + " Winning Team: " + pickArray[gameToAddOrUpdate].winningTeam + " UPDATED");
+  }
+}
+
+function removeGamePick(game){
+  let indexOfGame = doesGamePickExist(game);
+    if (indexOfGame === null){
+      console.log("Game " + game + " not found in pickArray.");
+      return false;
+    } else {
+      clearRadio(pickArray[indexOfGame].game,pickArray[indexOfGame].winningTeam);
+      pickArray.splice(indexOfGame,1);
+      printArrayForm();
+      checkSubmitButton();
+      return true;
+    }
+}
+
+function printArrayForm(){
+  clearForm();
+  for (let i=0;i<pickArray.length;i++){
+    let pickNumber = i+1;
+    let li = document.createElement('li');
+    li.id = "pick" + pickNumber;
+    //li.innerText = "Game: " + pick.game + " Winning Team Pick: " + pick.winningTeam;
+    li.innerHTML = "Pick "+pickNumber+" <input type='text' id='pick"+pickNumber+"' name='pick"+pickNumber+"' value='" + pickArray[i].winningTeam + "' readonly><br>";
+    pickList.append(li);
+  }
+}
+
+function clearForm(){
+  let pickList = document.getElementById('pickList');
+  //clean up while
+  while( pickList.firstChild ){
+    pickList.removeChild( pickList.firstChild );
+  }
+}
+
+function clearRadio(game,team){
+  let gameToUnPrint = document.getElementById('game' + game);
+  let radioButtonToClear = document.getElementById('radioGame' + game + "_" + team);
+  console.log("Removing");
+  radioButtonToClear.checked=false;   //uncheck radio button
+}
+
+function checkSubmitButton(){
+  let submitButton = document.getElementById("submit");
+  if (pickArray.length==maxPicks){
+    console.log("We should active the submit button because we are at MaxPicks");
+    submitButton.disabled = false;
+  } else {
+    console.log("We should deactivate the submit button because we aren't at MaxPicks");
+    submitButton.disabled = true;
+  }
+}
+
+</script>
+
+<style type="text/css">
+input.parsley-success
+{
+color: #468847 !important;
+background-color: #DFF0D8 !important;
+border: 1px solid #D6E9C6 !important;
+}
+ul.parsley-error-list
+{
+font-size: 14px;
+list-style-type:none;
+}
+input.parsley-error
+{
+color: #B94A48 !important;
+background-color: #F2DEDE !important;
+border: 1px solid #EED3D7 !important;
+}
+ul.parsley-error-list li
+{
+line-height: 14px;
+}
+#lines
+{
+width: 20em;
+}
+input.input-mini
+{
+width:3em;
+float:middle;
+}
+.control-label
+{
+font-weight:normal;
+}
+</style>
+</head>
+<body id="main_body" >
+
+<div class="tab-pane" id="lines">
+<div class='table-responsive table-condensed'>
+  <table id ='lines_table' class='table table-striped'>
+    <thead><tr><th>Fav</th> <th class='numeric'>Line</th><th>Dog</th><th style='text-align:center'></th></thead><tbody>
+      <tr>
+        <tr><td><b><input type="radio" id="radioGame1_NE" name="game1" value="NE" onClick="addPick('1','NE');">NE</b></td><td>-9.0</td><td><input type="radio" id="radioGame1_KC" name="game1" value="KC" onClick="addPick('1','KC');">KC</b></td><td style="text-align:center"><i></i><input type="button" name="game1" value="clear" onClick="removeGamePick('1');"></td></tr>
+        <tr><td><b><input type="radio" id="radioGame2_BUF" name="game2" value="BUF" onClick="addPick('2','BUF');">BUF</b></td><td>-8.5</td><td><input type="radio" id="radioGame2_NYJ" name="game2" value="NYJ" onClick="addPick('2','NYJ');">NYJ</b></td><td style="text-align:center"><i></i><input type="button" name="game1" value="clear" onClick="removeGamePick('2');"></td></tr>
+        <tr><td><input type="radio" id="radioGame3_ATL"name="game3" value="ATL" onClick="addPick('3','ATL');">ATL</td><td>-6.5</td><td><b><input type="radio" id="radioGame3_CHI" name="game3" value="CHI" onClick="addPick('3','CHI');">CHI</td><td style="text-align:center"><i></i><input type="button" name="game1" value="clear" onClick="removeGamePick('3');"></td></tr>
+        <tr><td><b><input type="radio" id="radioGame4_HOU"name="game4" value="HOU" onClick="addPick('4','HOU');">HOU</b></td><td>-5.0</td><td><input type="radio" id="radioGame4_JAX"name="game4" value="JAX" onClick="addPick('4','JAX');">JAX</td><td style="text-align:center"><i></i><input type="button" name="game1" value="clear" onClick="removeGamePick('4');"></td></tr>
+        <tr><td><input type="radio" id="radioGame5_PHI"name="game5" value="PHI" onClick="addPick('5','PHI');">PHI</td><td>-1.0</td><td><b><input type="radio" id="radioGame5_WAS"name="game5" value="WAS" onClick="addPick('5','WAS');">WAS</td><td style="text-align:center"><i></i><input type="button" name="game1" value="clear" onClick="removeGamePick('5');"></td></tr>
+</div>
+</div>
+
+<div>
+  <p><b>Picks go here</b></p>
+<form method="post" action="Submitform.php">
+  <ul id="pickList"></ul>
+  <input type="submit" id="submit" value="Submit Picks" disabled="true">
+</form>
+</div>
+
+
+</body>
+</html>
