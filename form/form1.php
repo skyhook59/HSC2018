@@ -15,6 +15,7 @@
 <script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0/js/bootstrap.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
+
 <style type="text/css">
              input.parsley-success
             {
@@ -52,16 +53,11 @@
 			{
 				font-weight:normal;
 			}
+			
         </style>
 </head>
 <body id="main_body" >
-	<ul class="nav nav-tabs"  data-tabs="tabs" >
-	  <li class="active"><a data-toggle="tab" href="#picks">Picks</a></li>
-	  <li><a data-toggle="tab" href="#lines">Lines</a></li>
-	  <li><a  href="../">Menu</a></li>
-	</ul>
-<div class="tab-content">	
-<div class="tab-pane" id="lines">	
+<div id="lines">	
 <?php
 
 	//variable for database connection
@@ -83,7 +79,7 @@
 	$pinnacle_url = "https://www.pinnacle.com/en/odds/match/football/usa/nfl?sport=true&aup=true&icl=nfl-hpsnippet";
 ?>
 	
-	<form  role="form" method="post" action="Submitform.php">
+	<form  role="form" method="post" action="Submitform1.php">
 
 		<div class="form-group">	
 	     <div class="control-group">
@@ -112,8 +108,15 @@
 		 </div>
 		</div>
 
+
 <?php	
-		
+	
+
+	// display this week's lines:
+	$query = "SELECT `favteam` , `line`, `dogteam`, `homeTeam`, `gameID` FROM `Lines` WHERE week = $week ORDER by `gameID`";
+	$result = mysql_query($query);
+
+	//Create HTML Table for Lines
 	echo "<div class='table-responsive table-condensed'>";
 	echo "<table id ='lines' class='table table-striped'>";
 	echo "<thead>";
@@ -122,141 +125,58 @@
 	echo "</thead>";
 	echo "<tbody>";
 	echo "<tr>";
-	echo '<div class="btn-group btn-group-toggle" data-toggle="buttons">';
 	
-	// display this week's lines:
-	$query = "SELECT `favteam` , `line`, `dogteam`, `homeTeam`, `gameID` FROM `Lines` WHERE week = $week ORDER by `gameID`";
-	$result = mysql_query($query);
+
+
+
 
 	while( ($row = mysql_fetch_array($result)))
 	{
 		echo "<tr><td>";
 
-		if ($row['favteam'] === $row ['homeTeam']){echo "<b>";}
-		echo '<label class="btn btn-primary" data-toggle="buttons">';
-		echo '<input type="radio"  data-toggle="buttons" name="pick'.$row['gameID'].'" value="'.$row['favteam'].'">';
+//		if ($row['favteam'] === $row ['homeTeam']){echo "<b>";}
+		echo '<div class="btn-group" data-toggle="buttons">';
+		echo '<label class="btn btn-primary">';
+		echo '<input type="radio"  data-toggle="button" name="pick'.$row['gameID'].'" value="'.$row['favteam'].'">';
 		echo $row['favteam'];
 		echo "</label>";
 
-		if ($row['homeTeam'] === $row ['favteam']){echo "</b>";}
+//		if ($row['homeTeam'] === $row ['favteam']){echo "</b>";}
 
 		echo "</td><td>";
 
-		echo '<label class="btn btn-primary" data-toggle="buttons">';
+		echo '<label class="btn btn-secondary">';
 		echo $row['line'];
 		echo "</label>";
 
 		echo "</td><td>";
 
-		if ($row['homeTeam'] === $row ['dogteam']){echo "<b>";}
-		echo '<label class="btn btn-primary" >';
-		echo '<input type="radio" data-toggle="buttons" name="pick'.$row['gameID'].'" value="'.$row['dogteam'].'">';
+//		if ($row['homeTeam'] === $row ['dogteam']){echo "<b>";}
+		echo '<label class="btn btn-primary">';
+		echo '<input type="radio" data-toggle="button" name="pick'.$row['gameID'].'" value="'.$row['dogteam'].'">';
 		echo $row['dogteam'];
 		echo "</label>";
 
 
-		if ($row['homeTeam'] === $row ['favteam']){echo "</b>";}
+//		if ($row['homeTeam'] === $row ['favteam']){echo "</b>";}
+		echo "<br />";
+//		echo '</td><td style="text-align:center">';
+//		echo "<i>".$linesArray[$row['favteam']]."</i>"; //Pinnacle line
+//		echo "</td></tr>";
+		echo "</div>";
 
-		echo '</td><td style="text-align:center">';
-		echo "<i>".$linesArray[$row['favteam']]."</i>";
-		echo "</td></tr>";
 	}
 
-	echo "</tbody></table></div>";
+	echo "</tbody></table>";
+	echo "</div>";
 ?>	
 	<input id="saveForm" class="btn btn-primary" type="submit" name="submit" value="Submit" />
 
 
 
 </div>
-<div class="tab-pane active" id="picks">
-<script>
-$(function() {
-    $('input').focusout(function() {
-        // Uppercase-ize contents
-        this.value = this.value.toLocaleUpperCase();
-    });
-});;
-</script>
 
-
-	<form class="horizontal-form" role="form" data-validate="parsley" method="post" action="Submitform.php">
-
-			<h2>Picks for Week <?php echo $week; ?> </h2>
-			<p>Please enter the 2 or 3 letter code for your picks.</p>
-
-		<div class="form-group">	
-	     <div class="control-group">
- 		 <label for="username" >Username </label>
-		 <select id="username" name="username" data-required="true"> 
-
-			<option value='' selected='selected'></option>
-			<option value='MCPHEE' >MCPHEE </option>
-			<option value='DARK' >DARK </option>
-			<option value='GRAMMA' >GRAMMA </option>
-			<option value='GORD' >GORD </option>
-			<option value='CHAD' >CHAD </option>
-			<option value='HOOPER' >HOOPER </option>
-			<option value='SOUTH' >SOUTH </option>
-			<option value='MORGAN' >MORGAN </option>
-			<option value='ROGERS' >ROGERS </option>
-			<option value='GUSSY' >GUSSY </option>
-			<option value='SKIP' >SKIP </option>
-			<option value='STEVENS' >STEVENS </option>
-			<option value='DOWDS' >DOWDS </option>
-			<option value='HURLEY' >HURLEY </option>
-			<option value='FITZ' >FITZ </option>
-			<option value='PATERSON' >PATERSON </option>
-			<option value='AFK' >AFK </option>
-		 </select>
-		 </div>
-		</div>
-		  <div class="form-group">
-		   <div class="control-group">
-		   <label class="col-sm-2 control-label" for="pick1">Pick 1 </label>
-		   <input id="pick1" name="pick1" class="input-mini" type="text" maxlength="3" value="" data-trigger="focusin focusout"  data-minlength="1" data-required="true" style="text-transform: uppercase" data-inlist="DEN, NE, PIT, NO, TB, KC, CHI, CLE, SEA, DET, IND, LAR, SF, DAL, WAS, HOU, BAL, BUF, TEN, ATL, NYJ, JAX, CIN, MIA, CAR, MIN, OAK, ARI, GB, NYG, PHI, LAC"/> 
-	   	   </div>
-	      </div>
-		   
-		  <div class="form-group">
-		   <div class="control-group">		   
-		   <label class="col-sm-2 control-label" for="pick2">Pick 2 </label>
-		   <input id="pick2" name="pick2" class="input-mini" type="text" maxlength="3" value="" data-trigger="focusin focusout" data-minlength="1" data-required="true" style="text-transform: uppercase" data-inlist="DEN, NE, PIT, NO, TB, KC, CHI, CLE, SEA, DET, IND, LAR, SF, DAL, WAS, HOU, BAL, BUF, TEN, ATL, NYJ, JAX, CIN, MIA, CAR, MIN, OAK, ARI, GB, NYG, PHI, LAC"/> 
-		   </div>
-	      </div>
-		  
-		  <div class="form-group"> 
-		   <div class="control-group">
-		   <label class="col-sm-2 control-label" for="pick3">Pick 3 </label>
-		   <input id="pick3" name="pick3" class="input-mini" type="text" maxlength="3" value="" data-trigger="focusin focusout" data-minlength="1" data-required="true" style="text-transform: uppercase" data-inlist="DEN, NE, PIT, NO, TB, KC, CHI, CLE, SEA, DET, IND, LAR, SF, DAL, WAS, HOU, BAL, BUF, TEN, ATL, NYJ, JAX, CIN, MIA, CAR, MIN, OAK, ARI, GB, NYG, PHI, LAC"/> 
-	   	   </div>
-	      </div>
-		  
-		  <div class="form-group"> 
-		   <div class="control-group">
-		   <label class="col-sm-2 control-label" for="pick4">Pick 4 </label>
-		   <input id="pick4" name="pick4" class="input-mini" type="text" maxlength="3" value="" data-trigger="focusin focusout" data-minlength="1" data-required="true" style="text-transform: uppercase" data-inlist="DEN, NE, PIT, NO, TB, KC, CHI, CLE, SEA, DET, IND, LAR, SF, DAL, WAS, HOU, BAL, BUF, TEN, ATL, NYJ, JAX, CIN, MIA, CAR, MIN, OAK, ARI, GB, NYG, PHI, LAC"/> 
- 		   </div>
-		  </div>
-		  
-		  <div class="form-group">  
-		   <div class="control-group">
-		   <label class="col-sm-2 control-label" for="pick5">Pick 5 </label>
-		   <input id="pick5" name="pick5" class="input-mini" type="text" maxlength="3" value="" data-trigger="focusin focusout" data-minlength="1" data-required="true" style="text-transform: uppercase" data-inlist="DEN, NE, PIT, NO, TB, KC, CHI, CLE, SEA, DET, IND, LAR, SF, DAL, WAS, HOU, BAL, BUF, TEN, ATL, NYJ, JAX, CIN, MIA, CAR, MIN, OAK, ARI, GB, NYG, PHI, LAC"/> 
-	   	   </div>
-		  </div>
-		   
-		   <div class="form-group">
-		   <input id="saveForm" class="btn btn-primary" type="submit" name="submit" value="Submit" />
-	   	   </div>
-		</form>	
-	</div>	
 </div>
-<script type="text/javascript">
-    jQuery(document).ready(function ($) {
-        $('#tabs').tab();
-    });
-</script>   
 </div>
 	<?php
 	// close DB connection
